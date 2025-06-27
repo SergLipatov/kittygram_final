@@ -24,7 +24,7 @@ services:
     volumes:
       - static:/frontend_static
   gateway:
-    build: serg2311/kittygram_gateway
+    image: serg2311/kittygram_gateway
     env_file: .env
     ports:
       - 9000:80
