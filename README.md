@@ -1,4 +1,6 @@
-#Kittygram [![CI/CD](https://github.com/SergLipatov/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/SergLipatov/kittygram_final/actions)
+# Kittygram
+
+[![CI/CD](https://github.com/SergLipatov/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/SergLipatov/kittygram_final/actions)
 Kittygram - это fullstack-приложение для обмена фотографиями котиков, построенное на основе современных технологий. Проект реализован с использованием Docker-контейнеров для обеспечения переносимости и простоты развёртывания.
 
 ## Технологический стек
@@ -165,6 +167,6 @@ docker-compose exec backend flake8 .
 
 ## Автор
 
-[SegLipatov](https://github.com/SegLipatov) - разработчик и создатель Kittygram
+[SergLipatov](https://github.com/SegLipatov) 
 
-[](https://github.com/SegLipatov)[https://img.shields.io/badge/GitHub-SegLipatov-blue?style=flat&logo=github](https://img.shields.io/badge/GitHub-SegLipatov-blue?style=flat&logo=github)
+[](https://github.com/SergLipatov)
