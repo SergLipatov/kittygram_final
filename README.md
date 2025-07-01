@@ -1,4 +1,4 @@
-Kittygram
+## Kittygram
 
 [![CI/CD](https://github.com/SergLipatov/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/SergLipatov/kittygram_final/actions)
 
